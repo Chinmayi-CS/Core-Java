@@ -10,10 +10,5 @@ class Watch
 		quantity = quantityLocal;
 		System.out.println("Created Watch");
 		
-	}
-	
-	
-	
-	
-	
+	}	
 }

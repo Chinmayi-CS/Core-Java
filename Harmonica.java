@@ -1,6 +1,6 @@
 class Harmonica
 {
-	String name = "";
+	String name = "Harmonium";
 	String colour;
 	double price;
 	int quantity;
