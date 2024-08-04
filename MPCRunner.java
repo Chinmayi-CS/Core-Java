@@ -9,6 +9,7 @@ class MPCRunner
 		
 		Metal metal1 = new Metal(50000);
 		System.out.println("Metal cost : "+metal1.cost);
+		
 		Metal metal2 = new Metal("Gold",45000);
 		System.out.println("Metal cost : "+metal2.name);
 		System.out.println("Metal cost : "+metal2.cost);
